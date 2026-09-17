@@ -1,0 +1,6 @@
+{
+  "name": "Police Hero Pakistan",
+  "description": "2D top-down police action and investigation game in a fictional Pakistani city. Patrol, investigate clues, chase and arrest criminals, manage records, and rise through the ranks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
